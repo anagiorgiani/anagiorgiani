@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS e JavaScript**
 
-- 👨‍💻 All of my projects are available at [anagiorgiani.github.io](anagiorgiani.github.io)
+- 👨‍💻 All of my projects are available at [anagiorgiani.github.io]
 
 - 💬 Ask me about **everything I will research and learn too**
 
