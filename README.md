@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS e JavaScript**
 
-- 👨‍💻 All of my projects are available at <a href="https://anagiorgiani.github.io/">[anagiorgiani.github.io]</a>
+- 👨‍💻 My portfólio are available at <a href="https://anagiorgiani.github.io/">[anagiorgiani.github.io]</a>
 
 - 💬 Ask me about **everything I will research and learn too**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anacarolinacavalheiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="anacarolinacavalheiro" height="30" width="40" /></a>
-<a href="https://instagram.com/giorgiani.anacarolina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="giorgiani.anacarolina" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anacarolinacavalheiro" target="blank"><img align="center" src="imagens\link1.png" alt="anacarolinacavalheiro" height="30" width="40" /></a>
+<a href="https://instagram.com/giorgiani.anacarolina" target="blank"><img align="center" src="imagens\instagram-logo.png" alt="giorgiani.anacarolina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
