@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Carolina Giorgiani</h1>
 <h3 align="center">a girl student of software development passionate about programming in brazil</h3>
 
-- 🌱 I’m currently learning **HTML,CSS e JavaScript**
+- 🌱 I’m currently learning **HTML,CSS, JavaScript e React**
 
 - 👨‍💻 My portfólio are available at <a href="https://anagiorgiani.github.io/">[anagiorgiani.github.io]</a>
 
