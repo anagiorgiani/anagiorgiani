@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anagiorgiani&show_icons=true&theme=dracula" alt="anagiorgiani" width="200"/></span>
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anagiorgiani&show_icons=true&theme=dracula" alt="anagiorgiani" width="350"/></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anagiorgiani&show_icons=true&theme=dracula" alt="anagiorgiani" width="230"/></span>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anagiorgiani&show_icons=true&theme=dracula" alt="anagiorgiani" width="390"/></span>
 </div>
 <br>
