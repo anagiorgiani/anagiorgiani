@@ -31,10 +31,8 @@
 
 <br>
 
-
-
 <div align="center">
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anagiorgiani&show_icons=true&theme=dracula" alt="anagiorgiani" width="282"/></span>
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anagiorgiani&show_icons=true&theme=dracula" alt="anagiorgiani" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anagiorgiani&show_icons=true&theme=dracula" alt="anagiorgiani" width="200"/></span>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anagiorgiani&show_icons=true&theme=dracula" alt="anagiorgiani" width="350"/></span>
 </div>
 <br>
